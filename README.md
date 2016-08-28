@@ -1,6 +1,6 @@
 # tt-rss-logo
 
-This is a copy of the [tt-rss](https://tt-rss.org/gitlab/fox/tt-rss/wikis/home) logo used inside 
+This is a copy of the [tt-rss](https://tt-rss.org/) logo used inside 
 [Feed Hawk](https://www.goldenhillsoftware.com/feed-hawk/). The logo is a derivative of the 
 logo included with tt-rss. Since tt-rss is licensed under the GPL version 3, I am licensing this derivative of that 
 logo under the GPL version 3.
