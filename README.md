@@ -22,5 +22,5 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with Logo for tt-rss for Feed Hawk.  If not, see <http://www.gnu.org/licenses/>.
 
-You can contact the maintainer of this project at [jbrayton@goldenhillsoftware.com](mailto:)jbrayton@goldenhillsoftware.com 
+You can contact the maintainer of this project at [jbrayton@goldenhillsoftware.com](mailto:jbrayton@goldenhillsoftware.com) 
 or at 89 Golden Hill Ave., Haverhill, MA 01830.
